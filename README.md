@@ -7,4 +7,5 @@ Solving DSA daily and update progress in my repo
 - `Q-875: Koko Eating Bananas` [🔗](https://leetcode.com/problems/koko-eating-bananas/description/)
 - `Q-153: FInd Minimum in Rotated Sort Array` [🔗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - `Q-33: Search in Rotated Sorted Array` [🔗](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- `Q-26: Remove duplicates in sorted array` [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 

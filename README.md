@@ -9,4 +9,5 @@ Solving DSA daily and update progress in my repository
 - `Q-33: Search in Rotated Sorted Array` [🔗](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - `Q-26: Remove duplicates in sorted array` [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 - `Q_981: Time_Based_Key_Value_Pairs` [🔗](https://leetcode.com/problems/time-based-key-value-store/description/)
+- `Q_20: Valid Parentheses` [🔗](https://leetcode.com/problems/valid-parentheses/description/) 
 

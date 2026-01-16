@@ -10,4 +10,7 @@
 - `Q-981: Time_Based_Key_Value_Pairs` [🔗](https://leetcode.com/problems/time-based-key-value-store/description/)
 - `Q-20: Valid Parentheses` [🔗](https://leetcode.com/problems/valid-parentheses/description/)
 - `Q-155: Min Stack` [🔗](https://leetcode.com/problems/min-stack/description/)
+- `Q-739: Daily Temperatures` [🔗](https://leetcode.com/problems/daily-temperatures/description/)
+- `Q-150: Evaluate Reverse Polish Notation` [🔗](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+
 
